@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=sJUUKSGt94I
 
 
 ¿Por qué afecta NAT al jugar online?
+Los juegos online cuando necessitan establecer una comunicación con otra red diferente y que no es compatible, la NAT actua como un traductor entre las direcciones IP para que se haga posible la comunicación, por lo tanto cuando la NAT no capaz a traducir los paquetes de datos que recibe o envia, tendríamos problemas para comunicarnos con otras redes y habría que configurar el tipo de NAT en la consola, y esto se debe al limitado rango de direcciones IPv4. 
